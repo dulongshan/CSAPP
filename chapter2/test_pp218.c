@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+	printf("0x1b8 = %d\n", 0x1b8);
+	printf("0x14 = %d\n", 0x14);
+	printf("0xfffffe58 = %d\n", 0xfffffe58);
+	printf("0xfffffe47 = %d\n", 0xfffffe47);
+	printf("0x44 = %d\n", 0x44);
+	printf("0xfffffec8 = %d\n", 0xfffffec8);
+	printf("0x10 = %d\n", 0x10);
+	printf("0xc = %d\n", 0xc);
+	printf("0xfffffeec = %d\n", 0xfffffeec);
+	printf("0x20 = %d\n", 0x20);
+}
